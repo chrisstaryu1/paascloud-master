@@ -326,9 +326,12 @@
       </dependency>
       <!-- alipay start-->
       <dependency>
-        <groupId>com.alipay</groupId>
+<!--        <groupId>com.alipay</groupId>-->
+<!--        <artifactId>alipay-sdk-java</artifactId>-->
+<!--        <version>20170725114550</version>-->
+        <groupId>com.alipay.sdk</groupId>
         <artifactId>alipay-sdk-java</artifactId>
-        <version>20170725114550</version>
+        <version>3.7.4.ALL</version>
       </dependency>
       <dependency>
         <groupId>com.alipay</groupId>

@@ -73,9 +73,12 @@
           <artifactId>spring-cloud-starter-feign</artifactId>
         </dependency>
     <dependency>
-      <groupId>com.liuzm.paascloud</groupId>
-      <artifactId>elastic-job-lite-starter</artifactId>
-      <version>1.0</version>
+<!--      <groupId>com.liuzm.paascloud</groupId>-->
+<!--      <artifactId>elastic-job-lite-starter</artifactId>-->
+<!--      <version>1.0</version>-->
+        <groupId>com.dangdang</groupId>
+        <artifactId>elastic-job-lite-core</artifactId>
+        <version>2.1.5</version>
     </dependency>
     <dependency>
       <groupId>com.liuzm.paascloud.provider.api</groupId>
